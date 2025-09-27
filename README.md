@@ -29,7 +29,8 @@ I am a technology enthusiast and AI & Data Science student, passionate about bui
 ## 📫 How to Reach Me
 - Email: abunesh2006@gmail.com  
 - LinkedIn: [linkedin.com/in/abunesh-r-p-803677278](https://www.linkedin.com/in/abunesh-r-p-803677278/)  
-- GitHub: [github.com/Abunesh126](https://github.com/Abunesh126/)  
+- Portfolio: [abuneshrp.netlify.app](https://abuneshrp.netlify.app/)
+
 
 ## 💻 Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
