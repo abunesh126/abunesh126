@@ -1,49 +1,140 @@
-# Hi there 👋, I'm Abunesh R P
+![Header](./github-header-banner.png)
+<h1 align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=800&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abunesh+R+P;AI+%26+Data+Science+Student;Full-Stack+%26+ML+Enthusiast" alt="Typing SVG" />
+</h1>
 
+<p align="center">
+	<img
+		src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+		width="420"
+		alt="Coding animation"
+	/>
+</p>
 
-## About Me  
-I am a technology enthusiast and AI & Data Science student, passionate about building innovative solutions and exploring the ever-evolving world of technology.  
+<p align="center">
+	<a href="https://abuneshrp.netlify.app" target="_blank">
+		<img src="https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=32" />
+	</a>
+
+	<a href="https://www.linkedin.com/in/abunesh-r-p-803677278/">
+		<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=32" />
+	</a>
+
+	<a href="mailto:abunesh2006@gmail.com">
+		<img src="https://img.shields.io/badge/Email-abunesh2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+
+	<img src="https://komarev.com/ghpvc/?username=Abunesh126&style=for-the-badge&color=green&label=Profile%20Views&logo=eye&logoColor=white&logoWidth=32" alt="Profile views" />
+</p>
+
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=5000&pause=500&color=FF79C6&center=true&vCenter=true&width=650&lines=Passionate+about+AI%2C+Data%2C+and+Smart+Apps;Always+building%2C+learning%2C+and+collaborating" alt="Invite" />
+</p>
+
+<hr>
+
+## 👤 About Me
+
+- 🎓 Aspiring **Full Stack + AI Developer** focused on building intelligent, user-friendly applications
+- ⚙️ Hands-on in full-stack systems, AI/ML models, computer vision, and automation workflows
+- 💻 Build-first learner: I learn fast by shipping real projects and improving them iteratively
+- 🚀 Goal: create scalable AI-powered products that solve real-world problems
+
+---
 
 ## 🌱 Currently Learning
-- React.js & TypeScript  
-- Flutter & Dart  
-- MySQL & Data Structures  
-- Java & Python  
+
+- Advanced AI/ML concepts and production-ready model deployment
+- Scalable full-stack architecture and API design patterns
+- Automation systems and workflow orchestration
+- Better system design, testing, and deployment practices
+
+---
+
+## 💡 In My Own Words
+<div align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00FFA3&center=true&vCenter=true&width=760&lines=Learn+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Optimize;From+full-stack+apps+to+AI-driven+solutions;Turning+ideas+into+impactful+technology" alt="Typing SVG" />
+</div>
+
+---
 
 ## 💼 Skills
-- **Programming Languages:** Python, Java, JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** Flask, React, Flutter, TensorFlow, Keras  
-- **Tools & Platforms:** Git, GitHub, VS Code, Tableau, Jupyter Notebook  
-- **AI & ML:** Deep Learning (CNN, RNN, LSTM), Data Analysis, ML Models  
 
-## 👯 I’m Looking to Collaborate On
-- Open-source AI & ML projects  
-- Web and Mobile App Development  
-- Data Science & Analysis Projects  
+- **Programming:** Python, Java, JavaScript, TypeScript, C/C++, HTML, CSS
+- **Frontend:** React.js, Tailwind CSS, Styled Components, Chakra UI
+- **Backend:** Flask, Laravel, REST API development
+- **Database:** MySQL, PostgreSQL, Supabase
+- **AI & Data:** ML basics, Whisper (speech-to-text), LSTM, Matplotlib, Plotly
+- **Pipelines & Cloud Data:** Prefect, Airbyte, Snowflake, Power BI
+- **Tools:** Git, GitHub, VS Code, Linux (Ubuntu), Cisco Packet Tracer, Figma
 
-## 🤔 Looking for Help With
-- Advanced Deep Learning concepts  
-- Full-stack project architecture  
-- Optimizing ML models for performance  
+---
 
-## 📫 How to Reach Me
-- Email: abunesh2006@gmail.com  
-- LinkedIn: [linkedin.com/in/abunesh-r-p-803677278](https://www.linkedin.com/in/abunesh-r-p-803677278/)  
-- Portfolio: [abuneshrp.netlify.app](https://abuneshrp.netlify.app/)
+## 🚀 Project Highlights
 
+- **Portfolio Website (React):** multi-section responsive portfolio with reusable UI components
+- **Attendance Management System:** Flask + MySQL full-stack DBMS project with subject-wise reports
+- **Nutri Choice (Java):** salary + nutrition-based grocery recommendation using OOP and DB logic
+- **Flower Classification:** AI model for Daisy, Dandelion, Rose, Sunflower, and Tulip prediction
+- **Real-Time Speech-to-Text:** Whisper + CUDA-based low-latency transcription pipeline
+- **Weather Data Pipeline:** ingestion → transformation → storage → visualization using Prefect, PostgreSQL, Snowflake, and Power BI
+- **Networking Labs:** VLAN, Inter-VLAN Routing, and EtherChannel simulations in Cisco Packet Tracer
 
-## 💻 Tech Stack
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+---
+
+## 💼 Internship
+
+- **Web Development Intern — Nandha Info Tech**
+- Worked on frontend-backend integration and practical web application workflows
+- Improved project structuring, collaboration habits, and real-world development discipline
+
+---
+
+## 🤝 Collaboration & Focus
+
+- 👯 Open to collaborate on full-stack, AI/ML, data, and automation projects
+- 🎯 Current focus: Full Stack AI Applications, Intelligent Web Systems, and AI + Automation integration
+- 🤔 Looking for opportunities to work on production-grade AI-powered products
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,tailwind,flask,laravel,mysql,postgres,supabase,git,github,vscode,linux,html,css,docker&perline=9" />
+</p>
+
+---
+
+## 🎯 Career Objective
+
+To become a highly skilled **Full Stack AI Engineer** who can design and deliver scalable intelligent systems by combining modern web development, machine learning, and automation.
+
+---
+
+## 🔮 Future Goals
+
+- Master advanced AI/ML and model optimization
+- Build production-level AI SaaS products
+- Contribute to impactful open-source projects
+- Work on high-performance, maintainable full-stack architectures
+- Grow toward product engineering leadership and startup execution
+
+---
 
 ## 📊 GitHub Stats
-![Abunesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=radical)  
 
-## ✍️ Random Dev Quote
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=radical&hide_border=true" width="390" height="160" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abunesh126&layout=compact&langs_count=6&theme=radical&hide_border=true" width="390" height="160" />
+</div>
+
+<p align="center">
+	<img src="https://streak-stats.demolab.com?user=Abunesh126&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## ✍️ Dev Quote
+
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
