@@ -179,17 +179,20 @@ developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=ffffff" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abunesh126&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" height="165"/>
+<a href="https://github.com/Abunesh126">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abunesh126&show_icons=true&theme=radical&hide_border=true" height="165"/>
+</a>
+<a href="https://github.com/Abunesh126">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abunesh126&layout=compact&theme=radical&hide_border=true" height="165"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Abunesh126&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=06b6d4&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Abunesh126&theme=radical&hide_border=true" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abunesh126&bg_color=0d1117&color=a855f7&line=06b6d4&point=ff6b6b&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abunesh126&theme=radical&hide_border=true" width="100%"/>
 
 </div>
 
