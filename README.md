@@ -214,26 +214,91 @@ developer = {
 
 ## ◈ &nbsp;`{ PROJECT VAULT }`
 
-<div align="center">
+---
 
-| ✦ | Project | Stack | Impact |
-|:---:|:--------|:------|:-------|
-| 🌐 | **Portfolio Website** | React, Styled Components | Multi-page · Responsive · Clean UI/UX |
-| 📋 | **Attendance Management System** | Flask · MySQL · HTML/CSS/JS | Subject-wise tracking · Full DBMS |
-| 🌸 | **Flower Identification AI** | Python · CNN · Deep Learning | 5-class classifier · 90%+ accuracy |
-| 🎙️ | **Real-Time Speech-to-Text** | Whisper AI · CUDA · Python | GPU-accelerated · Low-latency |
-| 🌊 | **Weather Data Pipeline** | Prefect · PostgreSQL · Snowflake · Power BI | End-to-end ETL · Live visualization |
-| 🎯 | **Micro-Doppler Target Classifier** | Python · ML · Signal Processing | Drone vs Bird · SIH 2024 · Team Clave |
-| 💧 | **Water Level Prediction (LSTM)** | PyTorch · LSTM · Time-Series | Future-level forecasting |
-| 🔬 | **Code-Adamantor** | HTML · CSS · JS · Chart.js | Microplastic detection & monitoring dashboard · SIH 2025 |
-| 🎯 | **FISH — Focus Intense Student Habitation** | TypeScript | Focus-based productivity app for students |
-| 🚗 | **Visual Park Mall** | Python | Smart parking system |
-| ⚙️ | **PACE — Project Automation Collaboration Engine** | JavaScript | Team workflow automation platform |
-| 💧 | **HydroWatch** | TypeScript | Water monitoring & analytics system |
-| 🤖 | **SORT — Software Operation & Resource Team** | Python | Team resource management system |
-| 🌟 | **Aura** | TypeScript | AI-powered personal assistant app |
+### 🏫 &nbsp; Field: Education
 
-</div>
+#### &nbsp;&nbsp; ✦ Domain — AI
+| ✦ | Project | Impact |
+|:---:|:--------|:-------|
+| 📋 | **Attendance Management System** | Subject-wise tracking · Full DBMS |
+| 🎯 | **FISH — Focus Intense Student Habitation** | Focus-based productivity app for students |
+
+#### &nbsp;&nbsp; ✦ Domain — Full Stack
+| ✦ | Project | Impact |
+|:---:|:--------|:-------|
+| 🌐 | **Portfolio Website** | Multi-page · Responsive · Clean UI/UX |
+
+---
+
+### 🌿 &nbsp; Field: Environment & Smart City
+
+#### &nbsp;&nbsp; ✦ Domain — AI / ML
+| ✦ | Project | Impact |
+|:---:|:--------|:-------|
+| 💧 | **Water Level Prediction (LSTM)** | Future-level forecasting · Time-series |
+| 🌊 | **Weather Data Pipeline** | End-to-end ETL · Live visualization |
+
+#### &nbsp;&nbsp; ✦ Domain — Full Stack / IoT
+| ✦ | Project | Impact |
+|:---:|:--------|:-------|
+| 🔬 | **Code-Adamantor** | Microplastic detection & monitoring dashboard · SIH 2025 |
+| 💧 | **HydroWatch** | Water monitoring & analytics system |
+
+---
+
+### 🛡️ &nbsp; Field: Defence & Security
+
+#### &nbsp;&nbsp; ✦ Domain — AI / Signal Processing
+| ✦ | Project | Impact |
+|:---:|:--------|:-------|
+| 🎯 | **Micro-Doppler Target Classifier** | Drone vs Bird detection · SIH 2024 · Team Clave |
+
+---
+
+### 🗣️ &nbsp; Field: Speech & Language
+
+#### &nbsp;&nbsp; ✦ Domain — AI
+| ✦ | Project | Impact |
+|:---:|:--------|:-------|
+| 🎙️ | **Real-Time Speech-to-Text** | GPU-accelerated · Low-latency transcription |
+
+---
+
+### 🌸 &nbsp; Field: Nature & Biology
+
+#### &nbsp;&nbsp; ✦ Domain — Computer Vision
+| ✦ | Project | Impact |
+|:---:|:--------|:-------|
+| 🌸 | **Flower Identification AI** | 5-class classifier · 90%+ accuracy |
+
+---
+
+### 🏙️ &nbsp; Field: Smart Infrastructure
+
+#### &nbsp;&nbsp; ✦ Domain — AI / Automation
+| ✦ | Project | Impact |
+|:---:|:--------|:-------|
+| 🚗 | **Visual Park Mall** | Smart parking management system |
+
+---
+
+### 💼 &nbsp; Field: Productivity & Collaboration
+
+#### &nbsp;&nbsp; ✦ Domain — Full Stack
+| ✦ | Project | Impact |
+|:---:|:--------|:-------|
+| ⚙️ | **PACE — Project Automation Collaboration Engine** | Team workflow automation platform |
+| 🤖 | **SORT — Software Operation & Resource Team** | Team resource management system |
+
+---
+
+### 🌟 &nbsp; Field: Personal AI & Lifestyle
+
+#### &nbsp;&nbsp; ✦ Domain — AI / Full Stack
+| ✦ | Project | Impact |
+|:---:|:--------|:-------|
+| 🌟 | **Aura** | AI-powered personal assistant app |
 
 <br/>
 
