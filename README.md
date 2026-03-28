@@ -177,7 +177,7 @@ Engineered a **microplastic detection & water quality monitoring** system — fu
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abunesh126&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=D4AF37" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=Abunesh126&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
