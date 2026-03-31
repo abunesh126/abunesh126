@@ -57,15 +57,18 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 <!-- ================= TECH STACK ================= -->
 # 🚀 TECH STACK 
 ---
+
 ## 🧠 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" />
+  <br/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ## 🎨 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,styledcomponents" />
+  <br/>
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
   <img src="https://img.shields.io/badge/Flexbox-764ABC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS%20Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -74,12 +77,14 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 ## ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,django,laravel" />
+  <br/>
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ## 🤖 AI / ML
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv,sklearn" />
+  <br/>
   <img src="https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RNN%20%2F%20LSTM-6A0DAD?style=for-the-badge" />
@@ -91,6 +96,7 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 ## 📊 Data & Analytics
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pandas,jupyter" />
+  <br/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
@@ -107,6 +113,7 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 ## ☁️ Cloud, DevOps & Deployment
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,netlify,githubactions" />
+  <br/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
@@ -114,6 +121,7 @@ Data   →  Pandas · Snowflake · Power BI · Prefect
 ## 🛠️ Developer Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,figma,blender" />
+  <br/>
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
